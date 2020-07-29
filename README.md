@@ -1,5 +1,3 @@
-# Siema Byku
-
 ### Hi there 👋
 
 <!--
